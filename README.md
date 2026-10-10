@@ -14,6 +14,13 @@ DUFormFix is a free, student-built Chrome extension that adds searchable inputs 
 - 🧩 Works on supported course-selection pages.
 - 🆓 Free to use.
 
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/ba6dc755-e38f-41b0-989e-52b4ebf46232
+
+
 ## 📥 Installation
 
 **No Git installation required!**
