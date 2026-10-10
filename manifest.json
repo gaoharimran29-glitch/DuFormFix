@@ -1,0 +1,22 @@
+
+{
+  "manifest_version": 3,
+  "name": "DU Course Selection Search",
+  "version": "0.1.0",
+  "description": "Adds searchable options to long course-selection dropdowns.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://slc.uod.ac.in/index.php/vidhyarthi/course-selection/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
