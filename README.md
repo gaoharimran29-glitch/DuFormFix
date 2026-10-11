@@ -1,6 +1,67 @@
-# DUFormFix
 
-**Search course options faster on the Delhi University examination portal.**
+<div align="center">
+  <picture>
+    <img
+      alt="DUFormFix Logo"
+      src="icons/icon128.png"
+      width="180"
+    />
+  </picture>
+</div>
+
+<div align="center">
+  <h3>
+    Search course options faster on the Delhi University examination portal
+  </h3>
+</div>
+
+<div align="center">
+  <a href="https://github.com/gaoharimran29-glitch/DuFormFix" target="_blank">
+    <img
+      src="https://img.shields.io/github/stars/gaoharimran29-glitch/DuFormFix?style=social"
+      alt="GitHub Stars"
+    />
+  </a>
+  <a href="https://github.com/gaoharimran29-glitch/DuFormFix/network/members" target="_blank">
+    <img
+      src="https://img.shields.io/github/forks/gaoharimran29-glitch/DuFormFix?style=social"
+      alt="GitHub Forks"
+    />
+  </a>
+  <a href="https://github.com/gaoharimran29-glitch/DuFormFix/issues" target="_blank">
+    <img
+      src="https://img.shields.io/github/issues/gaoharimran29-glitch/DuFormFix"
+      alt="GitHub Issues"
+    />
+  </a>
+  <a href="https://github.com/gaoharimran29-glitch/DuFormFix/releases/latest" target="_blank">
+    <img
+      src="https://img.shields.io/github/v/release/gaoharimran29-glitch/DuFormFix?label=Latest%20Release"
+      alt="Latest Release"
+    />
+  </a>
+  <a href="https://github.com/gaoharimran29-glitch/DuFormFix/blob/main/LICENSE" target="_blank">
+    <img
+      src="https://img.shields.io/github/license/gaoharimran29-glitch/DuFormFix"
+      alt="License"
+    />
+  </a>
+  <a href="https://github.com/gaoharimran29-glitch/DuFormFix/releases/latest" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white"
+      alt="Chrome Extension"
+    />
+  </a>
+  <a href="https://github.com/gaoharimran29-glitch/DuFormFix/releases/latest" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Price-Free-2ea44f"
+      alt="Free to Use"
+    />
+  </a>
+</div>
+
+
+---
 
 DUFormFix is a free, student-built Chrome extension that adds searchable inputs to course-selection dropdowns on the DU examination portal. Instead of manually scrolling through long dropdown lists, you can type and quickly find the option you need.
 
