@@ -82,6 +82,9 @@ DUFormFix is a free, student-built Chrome extension that adds searchable inputs 
 https://github.com/user-attachments/assets/ba6dc755-e38f-41b0-989e-52b4ebf46232
 
 
+Watch on YouTube :- https://youtu.be/2U_eC_KoFvw?si=Hl68SyRnpJrmGZh8
+
+
 ## 📥 Installation
 
 **No Git installation required!**
@@ -115,3 +118,10 @@ Found a bug or have a suggestion? Please open an issue in this repository.
 ## 📄 License
 
 See the [LICENSE](LICENSE) file for the terms of use.
+
+## 👤 Author
+
+**Gaohar Imran**
+
+* GitHub: [@gaoharimran29-glitch](https://github.com/gaoharimran29-glitch)
+* LinkedIn: [Gaohar Imran](https://www.linkedin.com/in/gaohar-imran-5a4063379/)
