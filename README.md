@@ -72,7 +72,7 @@ DUFormFix is a free, student-built Chrome extension that adds searchable inputs 
 - 🔎 Search dropdown options by typing.
 - ⚡ Quickly find courses in long dropdown lists.
 - 🎯 Select an option directly from the search results.
-- 🧩 Works on supported course-selection pages.
+- 🧩 Currently supports DU course-selection pages matching the URL pattern listed above.
 - 🆓 Free to use.
 
 ## Demo Video
@@ -84,6 +84,13 @@ https://github.com/user-attachments/assets/ba6dc755-e38f-41b0-989e-52b4ebf46232
 
 Watch on YouTube :- https://youtu.be/2U_eC_KoFvw?si=Hl68SyRnpJrmGZh8
 
+> **⚠️ Supported Page**
+>
+> DUFormFix currently works on the DU portal's course-selection pages matching:
+>
+> `https://slc.uod.ac.in/index.php/vidhyarthi/course-selection/*`
+>
+> The extension is configured to run only on this URL pattern. Other DU portal pages have not been tested and are not currently supported. If the search boxes don't appear, first make sure you're on a matching course-selection page.
 
 ## 📥 Installation
 
