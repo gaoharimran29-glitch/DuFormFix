@@ -67,11 +67,21 @@ DUFormFix is a free, student-built Chrome extension that adds searchable inputs 
 
 > **Disclaimer:** DUFormFix is an independent student project and is not affiliated with or endorsed by the University of Delhi.
 
+## 📦 Versions
+
+- **v0.2.0** (current): Adds an extension popup, handles dynamically loaded form fields, and shows a notice when no dropdowns are available.
+- **v0.1.0**: Initial release with searchable course-selection dropdowns.
+
+See [CHANGELOG.md](CHANGELOG.md) for the complete release history.
+
 ## ✨ Features
 
 - 🔎 Search dropdown options by typing.
 - ⚡ Quickly find courses in long dropdown lists.
 - 🎯 Select an option directly from the search results.
+- 🪧 Shows whether the extension is installed from the browser action popup.
+- 🔄 Detects course fields that are loaded after the page opens.
+- ℹ️ Clearly indicates when no dropdowns are available on the current page.
 - 🧩 Currently supports DU course-selection pages matching the URL pattern listed above.
 - 🆓 Free to use.
 

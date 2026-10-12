@@ -103,8 +103,44 @@
     }
   }
 
+  let noDropdownMessageShown = false;
+
   function scan() {
-    document.querySelectorAll("select").forEach(enhanceDropdown);
+    const dropdowns = document.querySelectorAll("select");
+
+    if (dropdowns.length === 0) {
+      if (noDropdownMessageShown) return;
+
+      noDropdownMessageShown = true;
+
+      const message = document.createElement("div");
+      message.id = "duformfix-no-dropdown";
+      message.textContent = "No drop down found";
+
+      Object.assign(message.style, {
+        position: "fixed",
+        top: "20px",
+        right: "20px",
+        zIndex: "2147483647",
+        background: "#fff3cd",
+        color: "#111",
+        padding: "12px 18px",
+        border: "1px solid #ffecb5",
+        borderRadius: "8px",
+        boxShadow: "0 2px 8px rgba(0,0,0,0.15)"
+      });
+
+      document.body.appendChild(message);
+
+      setTimeout(() => {
+        document.getElementById("duformfix-no-dropdown")?.remove();
+      }, 10000);
+
+      return;
+    }
+
+    document.getElementById("duformfix-no-dropdown")?.remove();
+    dropdowns.forEach(enhanceDropdown);
   }
 
   scan();
